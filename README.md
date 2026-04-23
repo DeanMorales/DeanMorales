@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hola ¿Cómo estas? 👋
+### Ing. Manu a la orden!
 <!--
 **DeanMorales/DeanMorales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🌱 Como practicante certificado en AWS Certified Cloud Practitioner, me enfoco en construir proyectos prácticos en la nube aplicando principios del AWS Well-Architected Framework. Diseño soluciones escalables, seguras y eficientes utilizando servicios gestionados de AWS, con un enfoque en arquitecturas serverless, automatización y uso responsable de recursos. Actualmente desarrollo proyectos que integran fundamentos de computación en la nube y capacidades de inteligencia artificial, fortaleciendo mis habilidades en diseño, implementación y operación de sistemas cloud-native.
