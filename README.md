@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 <img width="150" height="150" alt="aws-certified-cloud-practitioner" src="https://github.com/user-attachments/assets/e33da5b4-6cc5-46fc-ad65-9b1725a8a4e9" />
 <img width="150" height="150" alt="aws-re-start-graduate" src="https://github.com/user-attachments/assets/5050e9da-b69d-4618-92e8-17d0f84c502b" />
 <img width="150" height="150" alt="aws-simulearn-ai-practitioner-training-badge" src="https://github.com/user-attachments/assets/2b53eaff-6ff3-4d2d-a897-192174e878cd" />
+<img width="150" height="150" alt="aws-cloud-quest-cloud-practitioner-training-badge" src="https://github.com/user-attachments/assets/af47645c-a12e-48f4-8fde-9f31d1f42ae9" />
+
 
 >[!note]
 >checa el link para ir a mi perfil de Credly! [Perfil de Credly](https://www.credly.com/users/emmanuel-morales-hernandez/badges/credly)
