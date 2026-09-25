@@ -107,6 +107,32 @@ Mi objetivo es continuar desarrollando las habilidades necesarias para diseñar 
 
 </p>
 
+## 🍃 MongoDB
+
+Actualmente también estoy fortaleciendo mis conocimientos en bases de datos NoSQL y arquitectura con MongoDB.
+
+### Badges
+
+<a href="https://www.credly.com/badges/5be3e24d-172f-4799-860f-f30125aa2d8d/public_url">
+  <img src="https://images.credly.com/size/150x150/images/..." alt="MongoDB Overview: Core Concepts and Architecture" width="120"/>
+</a>
+
+**MongoDB Overview: Core Concepts and Architecture**
+
+Formación enfocada en:
+
+* Fundamentos de MongoDB
+* Bases de datos NoSQL
+* Arquitectura de MongoDB
+* Modelado de datos
+* Document databases
+* Estructuras y conceptos fundamentales
+* Diseño de aplicaciones modernas y escalables
+
+[Ver badge en Credly](https://www.credly.com/badges/5be3e24d-172f-4799-860f-f30125aa2d8d/public_url)
+
+
+
 [Ver todas mis credenciales en Credly](https://www.credly.com/users/emmanuel-morales-hernandez/badges/credly)
 
 ---
