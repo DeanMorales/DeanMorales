@@ -93,7 +93,7 @@ Actualmente también estoy fortaleciendo mis conocimientos en bases de datos NoS
 
 <p align="center">
 
-<img width="78" height="78" alt="mongodb-overview-core-concepts-and-architecture" src="https://github.com/user-attachments/assets/0c311f5e-43d0-4a56-b228-76a073cdb2d7" />
+<img width="140" height="140" alt="mongodb-overview-core-concepts-and-architecture" src="https://github.com/user-attachments/assets/0c311f5e-43d0-4a56-b228-76a073cdb2d7" />
 </p>
 
 **MongoDB Overview: Core Concepts and Architecture**
