@@ -57,28 +57,6 @@ Actualmente estoy profundizando en:
 
 ---
 
-## Mi camino en AWS
-
-```text
-                    AWS re/Start
-                         │
-                         ▼
-              AWS Cloud Practitioner
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
-     AWS AI Practitioner       Cloud Quest
-              │
-              ▼
-        AWS SimuLearn
-              │
-              ▼
- Fundamentals of Architecting
-              │
-              ▼
-       AWS Solutions Architect
-```
-
 Mi objetivo es continuar desarrollando las habilidades necesarias para diseñar arquitecturas que respondan a necesidades reales de negocio, aplicando principios de **seguridad, confiabilidad, rendimiento, eficiencia de costos, excelencia operativa y sostenibilidad**.
 
 ---
@@ -113,7 +91,10 @@ Actualmente también estoy fortaleciendo mis conocimientos en bases de datos NoS
 
 ### Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5be3e24d-172f-4799-860f-f30125aa2d8d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<p align="center">
+
+<img width="78" height="78" alt="mongodb-overview-core-concepts-and-architecture" src="https://github.com/user-attachments/assets/0c311f5e-43d0-4a56-b228-76a073cdb2d7" />
+</p>
 
 **MongoDB Overview: Core Concepts and Architecture**
 
@@ -127,10 +108,9 @@ Formación enfocada en:
 * Estructuras y conceptos fundamentales
 * Diseño de aplicaciones modernas y escalables
 
-[Ver badge en Credly](https://www.credly.com/badges/5be3e24d-172f-4799-860f-f30125aa2d8d/public_url)
+---
 
-
-
+## Perfil de Credly
 [Ver todas mis credenciales en Credly](https://www.credly.com/users/emmanuel-morales-hernandez/badges/credly)
 
 ---
