@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hi, I'm Emmanuel Morales
+# Hola, soy Emmanuel Morales
 
-### ICT Engineer | AWS Cloud | AI | Solutions Architecture
+### Ingeniero en TICs | AWS Cloud | Inteligencia Artificial | Solutions Architecture
 
 <p>
   <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Conecta%20conmigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.credly.com/users/emmanuel-morales-hernandez/badges/credly" target="_blank">
-    <img src="https://img.shields.io/badge/Credly-Profile-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
+    <img src="https://img.shields.io/badge/Credly-Mis%20credenciales-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/>
   </a>
 </p>
 
@@ -17,67 +17,73 @@
 
 ---
 
-## About Me
+## Sobre mí
 
-I'm an **Information and Communication Technologies Engineer** passionate about Cloud Computing, Artificial Intelligence and modern software development.
+Soy **Ingeniero en Tecnologías de la Información y las Comunicaciones**, apasionado por Cloud Computing, Inteligencia Artificial y el desarrollo de soluciones modernas.
 
-My professional journey has led me from **AWS re/Start** and cloud fundamentals into **AI, serverless architectures, agentic development and solutions architecture**.
+Mi trayectoria reciente me ha llevado desde los fundamentos de Cloud con **AWS re/Start**, hasta el desarrollo de conocimientos en **AWS, Inteligencia Artificial, arquitecturas Serverless y desarrollo de software basado en agentes**.
 
-I enjoy learning, building practical projects and, especially, **sharing knowledge with others**.
+Actualmente estoy enfocado en mi crecimiento profesional hacia el camino de **AWS Solutions Architect**, aprendiendo a transformar requerimientos de negocio en soluciones seguras, escalables, resilientes y eficientes.
 
-Currently, I'm focused on growing as an **AWS Solutions Architect**, designing secure, scalable, resilient and cost-efficient cloud solutions following the principles of the **AWS Well-Architected Framework**.
+También tengo una gran pasión por **aprender, enseñar y compartir conocimiento técnico** con la comunidad.
 
 ---
 
-## Current Focus
+## En qué estoy trabajando
 
 ```text
 Cloud Architecture       ███████████████████░   AWS
-Artificial Intelligence  ████████████████░░░░   Generative AI
-Serverless Development   █████████████████░░░   Lambda / API Gateway
+Inteligencia Artificial  ████████████████░░░░   Generative AI
+Serverless               █████████████████░░░   AWS Lambda
 Agentic Development      ███████████████░░░░░   Kiro / MCP
 Backend Development      ███████████████░░░░░   Python
-Cloud Architecture       █████████████████░░░   Well-Architected
+Arquitectura Cloud       █████████████████░░░   Well-Architected
 ```
+
+Actualmente estoy profundizando en:
 
 * AWS Solutions Architecture
-* Serverless applications
-* Generative AI and Machine Learning fundamentals
-* Agentic Software Development
+* AWS Well-Architected Framework
+* Arquitecturas Serverless
+* Inteligencia Artificial Generativa
+* Amazon Bedrock
+* RAG y Foundation Models
+* Agentic Development
 * Spec-Driven Development
 * Model Context Protocol (MCP)
-* AWS Well-Architected Framework
+* Kiro
+* Desarrollo Backend con Python
 * Cloud-native applications
-* Continuous learning and technical content creation
 
 ---
 
-## AWS Journey
+## Mi camino en AWS
 
 ```text
-AWS re/Start
-     │
-     ▼
-AWS Cloud Practitioner
-     │
-     ├──────────────► AWS AI Practitioner
-     │
-     ├──────────────► Cloud Quest
-     │
-     ├──────────────► SimuLearn
-     │
-     ▼
-Fundamentals of Architecting on AWS
-     │
-     ▼
-AWS Solutions Architect
+                    AWS re/Start
+                         │
+                         ▼
+              AWS Cloud Practitioner
+                         │
+              ┌──────────┴──────────┐
+              ▼                     ▼
+     AWS AI Practitioner       Cloud Quest
+              │
+              ▼
+        AWS SimuLearn
+              │
+              ▼
+ Fundamentals of Architecting
+              │
+              ▼
+       AWS Solutions Architect
 ```
 
-My goal is to continue transforming business requirements into **secure, scalable, resilient and efficient cloud architectures**.
+Mi objetivo es continuar desarrollando las habilidades necesarias para diseñar arquitecturas que respondan a necesidades reales de negocio, aplicando principios de **seguridad, confiabilidad, rendimiento, eficiencia de costos, excelencia operativa y sostenibilidad**.
 
 ---
 
-## Certifications & Badges
+## Certificaciones
 
 ### AWS Certifications
 
@@ -91,7 +97,7 @@ My goal is to continue transforming business requirements into **secure, scalabl
 
 </p>
 
-### AWS Training
+### AWS Training & Badges
 
 <p align="center">
 
@@ -101,159 +107,171 @@ My goal is to continue transforming business requirements into **secure, scalabl
 
 </p>
 
-[View all my credentials on Credly](https://www.credly.com/users/emmanuel-morales-hernandez/badges/credly)
+[Ver todas mis credenciales en Credly](https://www.credly.com/users/emmanuel-morales-hernandez/badges/credly)
 
 ---
 
-## Technologies & Tools
+## Tecnologías y herramientas
 
 ### Cloud & AWS
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=aws" alt="AWS"/>
 </p>
 
-**AWS:** Lambda · API Gateway · S3 · DynamoDB · IAM · VPC · CloudWatch · CloudFront · Athena · Bedrock · Comprehend · SageMaker
+**Servicios AWS con los que estoy trabajando:**
 
-### Programming & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,bash,git,github,vscode" alt="Programming tools"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases"/>
-</p>
-
-### AI & Agentic Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-</p>
-
-**Currently exploring:**
-
-`Generative AI` · `Amazon Bedrock` · `RAG` · `Foundation Models` · `Prompt Engineering` · `Kiro` · `MCP` · `Spec-Driven Development` · `Agentic Development`
+`Lambda` · `API Gateway` · `S3` · `DynamoDB` · `IAM` · `VPC` · `CloudWatch` · `CloudFront` · `Athena` · `Amazon Bedrock` · `Amazon Comprehend` · `Amazon SageMaker`
 
 ---
 
-## Agentic Software Development
+### Lenguajes y desarrollo
 
-Recently completed training in **Development of Agent-Based Software with Kiro**.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,js,bash,git,github,vscode" alt="Tecnologías de desarrollo"/>
+</p>
 
-I'm particularly interested in the intersection between **AI agents and Cloud Engineering**.
+`Python` · `Java` · `JavaScript` · `Bash` · `Git` · `GitHub` · `VS Code`
 
-### Kiro
+---
 
-```text
-Requirements
-     │
-     ▼
-   Specs
-     │
-     ▼
-   Design
-     │
-     ▼
-   Tasks
-     │
-     ▼
-Implementation
-     │
-     ▼
-   Testing
-```
+### Bases de datos
 
-Areas I'm exploring:
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Bases de datos"/>
+</p>
+
+`MongoDB` · `MySQL` · `PostgreSQL` · `DynamoDB`
+
+---
+
+## Inteligencia Artificial y desarrollo basado en agentes
+
+Uno de mis principales intereses actualmente es explorar la intersección entre **Inteligencia Artificial, Cloud Computing y desarrollo de software basado en agentes**.
+
+Durante mi formación con **Kiro** profundicé en:
 
 * Spec-Driven Development
 * Specs
+* Requirements
+* Design
+* Tasks
 * Steering
 * Hooks
-* MCP
-* AWS MCP integrations
+* Model Context Protocol (MCP)
+* Integración con servicios de AWS mediante MCP
 * Kiro Powers
-* AI-assisted software engineering
+* Agentic Development
 
-My goal is to understand how agentic development can improve **software quality, consistency, documentation and developer productivity**.
+Mi objetivo es comprender cómo los agentes de IA pueden integrarse al ciclo de desarrollo para mejorar la productividad, consistencia, documentación y calidad del software.
 
----
+### Flujo de desarrollo con Specs
 
-## Featured Projects
-
-### AWS Serverless Applications
-
-Building practical AWS projects using:
-
-`Python` · `Lambda` · `API Gateway` · `S3` · `DynamoDB` · `CloudFormation`
-
-Focused on security, automation, observability, scalability and cost optimization.
-
-### AI & AWS
-
-Exploring architectures involving:
-
-`Amazon Bedrock` · `RAG` · `Embeddings` · `Amazon Comprehend` · `SageMaker`
-
-### Cloud Architecture
-
-Designing solutions using the principles of:
-
-`AWS Well-Architected Framework`
-
-with emphasis on:
-
-`Security` · `Reliability` · `Performance Efficiency` · `Cost Optimization` · `Operational Excellence` · `Sustainability`
+```text
+Idea
+ │
+ ▼
+Requirements
+ │
+ ▼
+Design
+ │
+ ▼
+Tasks
+ │
+ ▼
+Implementation
+ │
+ ▼
+Testing
+ │
+ ▼
+Deployment
+```
 
 ---
 
-## Learning & Sharing
+## Arquitectura Cloud
 
-I believe that **knowledge becomes more valuable when it is shared**.
+Estoy desarrollando proyectos enfocados en arquitecturas **Cloud-native y Serverless**, aplicando principios del **AWS Well-Architected Framework**.
 
-I'm currently participating in technical content creation initiatives, writing about:
+Mis principales áreas de interés son:
+
+`Seguridad`
+
+`Confiabilidad`
+
+`Excelencia Operativa`
+
+`Eficiencia de Rendimiento`
+
+`Optimización de Costos`
+
+`Sostenibilidad`
+
+---
+
+## Proyectos
+
+### Arquitecturas Serverless
+
+Desarrollo proyectos prácticos utilizando:
+
+`Python` · `AWS Lambda` · `API Gateway` · `S3` · `DynamoDB` · `CloudFormation`
+
+con especial atención en seguridad, automatización, observabilidad, escalabilidad y optimización de costos.
+
+### Inteligencia Artificial en AWS
+
+Exploro soluciones utilizando:
+
+`Amazon Bedrock` · `RAG` · `Embeddings` · `Foundation Models` · `Amazon Comprehend` · `Amazon SageMaker`
+
+### Agentic Development
+
+Construyo y experimento con soluciones utilizando:
+
+`Kiro` · `MCP` · `Specs` · `Steering` · `Powers`
+
+buscando nuevas formas de integrar agentes de IA en procesos de desarrollo de software y Cloud Engineering.
+
+---
+
+## Aprendizaje y comunidad
+
+Creo firmemente que **el conocimiento adquiere mayor valor cuando se comparte**.
+
+Por eso, además de aprender nuevas tecnologías, estoy desarrollando contenido técnico sobre:
 
 * AWS Cloud
 * Solutions Architecture
-* Artificial Intelligence
+* Inteligencia Artificial
 * Generative AI
-* Agentic Development
 * Kiro
 * MCP
-* Serverless Architecture
-* Cloud-native development
+* Agentic Development
+* Serverless
+* Cloud-native Architecture
+* Buenas prácticas de arquitectura
 
-My goal is to make complex technical concepts easier to understand through practical examples and real projects.
-
----
-
-## GitHub Contributions
-
-<!-- Add the generated snake animation after configuring GitHub Actions -->
-
-<p align="center">
-  <img src="./dist/github-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
+Mi objetivo es explicar conceptos técnicos de forma clara y práctica, utilizando proyectos reales como punto de partida para que otros puedan aprender y comenzar su propio camino en tecnología.
 
 ---
 
-## Let's Connect
+## Actualmente
 
-I'm always interested in:
+Estoy buscando seguir creciendo profesionalmente en proyectos relacionados con:
 
-* Cloud projects
-* Open-source collaboration
-* AWS architecture
-* AI and Generative AI
-* Technical content creation
-* Learning from other developers and cloud professionals
+**AWS Cloud | Cloud Architecture | Artificial Intelligence | Backend | Serverless | Agentic Development**
 
-If you're working on something interesting, feel free to reach out.
+También estoy abierto a **colaborar en proyectos, compartir conocimiento y conectar con otros profesionales de tecnología**.
 
-<p align="center">
+---
 
-**Let's build, learn and share knowledge together.**
+<div align="center">
 
-</p>
+### Construir. Aprender. Compartir.
+
+**El camino hacia Solutions Architect continúa.**
+
+</div>
