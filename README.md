@@ -113,9 +113,7 @@ Actualmente también estoy fortaleciendo mis conocimientos en bases de datos NoS
 
 ### Badges
 
-<a href="https://www.credly.com/badges/5be3e24d-172f-4799-860f-f30125aa2d8d/public_url">
-  <img src="https://images.credly.com/size/150x150/images/..." alt="MongoDB Overview: Core Concepts and Architecture" width="120"/>
-</a>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5be3e24d-172f-4799-860f-f30125aa2d8d" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 **MongoDB Overview: Core Concepts and Architecture**
 
