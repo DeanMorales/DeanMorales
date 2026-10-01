@@ -46,7 +46,6 @@ Actualmente estoy profundizando en:
 * AWS Well-Architected Framework
 * Arquitecturas Serverless
 * Inteligencia Artificial Generativa
-* Amazon Bedrock
 * RAG y Foundation Models
 * Agentic Development
 * Spec-Driven Development
@@ -125,7 +124,7 @@ Formación enfocada en:
 
 **Servicios AWS con los que estoy trabajando:**
 
-`Lambda` · `API Gateway` · `S3` · `DynamoDB` · `IAM` · `VPC` · `CloudWatch` · `CloudFront` · `Athena` · `Amazon Bedrock` · `Amazon Comprehend` · `Amazon SageMaker`
+`Lambda` · `API Gateway` · `S3` · `DynamoDB` · `IAM` · `VPC` · `CloudWatch` · `CloudFront` · `Amazon Bedrock` · `Amazon Comprehend`
 
 ---
 
