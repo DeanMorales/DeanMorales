@@ -70,7 +70,6 @@ Mi objetivo es continuar desarrollando las habilidades necesarias para diseñar 
 
 <img width="140" height="140" alt="AWS Certified Cloud Practitioner" src="https://github.com/user-attachments/assets/e33da5b4-6cc5-46fc-ad65-9b1725a8a4e9"/>
 
-<img width="140" height="140" alt="AWS re Start Graduate" src="https://github.com/user-attachments/assets/5050e9da-b69d-4618-92e8-17d0f84c502b"/>
 
 </p>
 
@@ -93,7 +92,11 @@ Actualmente también estoy fortaleciendo mis conocimientos en bases de datos NoS
 <p align="center">
 
 <img width="140" height="140" alt="mongodb-overview-core-concepts-and-architecture" src="https://github.com/user-attachments/assets/0c311f5e-43d0-4a56-b228-76a073cdb2d7" />
+
+<img width="140" height="140" alt="from-relational-model-sql-to-mongodbs-document-mode 1" src="https://github.com/user-attachments/assets/39d8b825-d49c-43fe-98e3-5eb2f5a19d7b" />
+
 </p>
+
 
 **MongoDB Overview: Core Concepts and Architecture**
 
@@ -167,50 +170,12 @@ Durante mi formación con **Kiro** profundicé en:
 * Agentic Development
 
 Mi objetivo es comprender cómo los agentes de IA pueden integrarse al ciclo de desarrollo para mejorar la productividad, consistencia, documentación y calidad del software.
-
-### Flujo de desarrollo con Specs
-
-```text
-Idea
- │
- ▼
-Requirements
- │
- ▼
-Design
- │
- ▼
-Tasks
- │
- ▼
-Implementation
- │
- ▼
-Testing
- │
- ▼
-Deployment
-```
-
 ---
 
 ## Arquitectura Cloud
 
 Estoy desarrollando proyectos enfocados en arquitecturas **Cloud-native y Serverless**, aplicando principios del **AWS Well-Architected Framework**.
 
-Mis principales áreas de interés son:
-
-`Seguridad`
-
-`Confiabilidad`
-
-`Excelencia Operativa`
-
-`Eficiencia de Rendimiento`
-
-`Optimización de Costos`
-
-`Sostenibilidad`
 
 ---
 
