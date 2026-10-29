@@ -218,16 +218,6 @@ Mi objetivo es explicar conceptos técnicos de forma clara y práctica, utilizan
 
 ---
 
-## Actualmente
-
-Estoy buscando seguir creciendo profesionalmente en proyectos relacionados con:
-
-**AWS Cloud | Cloud Architecture | Artificial Intelligence | Backend | Serverless | Agentic Development**
-
-También estoy abierto a **colaborar en proyectos, compartir conocimiento y conectar con otros profesionales de tecnología**.
-
----
-
 <div align="center">
 
 ### Construir. Aprender. Compartir.
