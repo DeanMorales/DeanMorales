@@ -29,18 +29,7 @@ También tengo una gran pasión por **aprender, enseñar y compartir conocimient
 
 ---
 
-## En qué estoy trabajando
-
-```text
-Cloud Architecture       ███████████████████░   AWS
-Inteligencia Artificial  ████████████████░░░░   Generative AI
-Serverless               █████████████████░░░   AWS Lambda
-Agentic Development      ███████████████░░░░░   Kiro / MCP
-Backend Development      ███████████████░░░░░   Python
-Arquitectura Cloud       █████████████████░░░   Well-Architected
-```
-
-Actualmente estoy profundizando en:
+## Actualmente estoy profundizando en:
 
 * AWS Solutions Architecture
 * AWS Well-Architected Framework
@@ -94,6 +83,9 @@ Actualmente también estoy fortaleciendo mis conocimientos en bases de datos NoS
 <img width="140" height="140" alt="mongodb-overview-core-concepts-and-architecture" src="https://github.com/user-attachments/assets/0c311f5e-43d0-4a56-b228-76a073cdb2d7" />
 
 <img width="140" height="140" alt="from-relational-model-sql-to-mongodbs-document-mode 1" src="https://github.com/user-attachments/assets/39d8b825-d49c-43fe-98e3-5eb2f5a19d7b" />
+
+<img width="140" height="140" alt="mongodb-aggregation-fundamentals" src="https://github.com/user-attachments/assets/46c9b53f-1a30-4be1-b3d0-610b5c183356" />
+
 
 </p>
 
